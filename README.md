@@ -1,2 +1,5 @@
 ## Information
-nvim-linux64.tar.gz contains the required version of nvim for vim-plug 
+* Colors folder goes into `~/.vim`
+* i3 and nvim folders goes into `~/.config`
+* nvim-linux64.tar.gz contains the required version of nvim for vim-plug 
+* The rest goes into the `$HOME` or `~` folder (.bashrc etc.)
