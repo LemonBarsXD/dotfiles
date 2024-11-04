@@ -5,4 +5,5 @@
 * The rest goes into the `$HOME` or `~` folder (.bashrc etc.)
 
 ## Font
-Iosevka
+[Iosevka](https://github.com/be5invis/Iosevka)
+
