@@ -1,0 +1,7 @@
+! colors
+XTerm*background: black
+XTerm*foreground: white
+
+! font
+XTerm*faceName: Iosevka
+XTerm*faceSize: 14
